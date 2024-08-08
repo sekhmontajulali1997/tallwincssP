@@ -4,6 +4,6 @@
 
 @layer components {
   .container {
-    @apply mx-auto bg-black text-white
+    @apply 2xl:w-[90%]  mx-auto bg-black text-white
   }
 }

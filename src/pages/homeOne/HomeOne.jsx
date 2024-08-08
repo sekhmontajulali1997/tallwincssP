@@ -1,9 +1,14 @@
+import logo from "../../assets/logo.png"
+
+
 const HomeOne = () => {
   return (
     <>
-      <div>
+      <div className="bg-[#101446]">  
         <div className="container">
-          <h1>hwloo</h1>
+
+      
+          
         </div>
       </div>
     </>
