@@ -4,6 +4,11 @@
 
 @layer components {
   .container {
-    @apply 2xl:w-[90%]  mx-auto bg-black text-white
+    @apply w-[90%]  mx-auto 
+  }
+}
+@layer components {
+  .input {
+    @apply w-[90%] mt-2 border border-[#dadada]  py-1 px-3 rounded-md dark:text-black
   }
 }
